@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config> 
+	<initial_node_num>1</initial_node_num>
+	<input_file_name>C:\Users\user\Desktop\testdata\amazon</input_file_name>
+	<output_file_name>C:\Users\user\Desktop\testdata\amazon_output</output_file_name>
+	<sperator_str>,</sperator_str>
+	<subsperator_str></subsperator_str>
+</config>
+	
+	 
